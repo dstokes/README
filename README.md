@@ -2,7 +2,7 @@
 I'm Drew. This is my personal readme. It's documentation that should help you get to know me and jump start our working relationship. If your experience with me is different or something is missing from this document, feel free to open an [issue](https://github.com/dstokes/README/issues).
 
 # About Me
-I live in Portland, Oregon with my partner, Kristen; our daughters, Adley and Willow; and our dog, Obie. I'm a vegetarian, an avid reader, and deeply curious about the world and the people in it. My preferred pronouns are he, him, and his. 
+I live in Portland, Oregon with my partner, Kristen; our daughters, Adley and Willow; and our dog, Obie. I'm a vegetarian, an avid reader, and deeply curious about the world and the people in it. My preferred pronouns are he / they. 
 
 Over the last 15 years, I've taken on various roles in technology including IT administration, database and systems administration, front end and full stack development, site reliability engineering, and leadership. You can learn more about my professional experience on my [LinkedIn profile](https://www.linkedin.com/in/drewstokes/).
 
@@ -15,7 +15,9 @@ Over the last 15 years, I've taken on various roles in technology including IT a
 **There is always room for improvement.**  Every person I have ever worked with has taught me something. No matter how comfortable I am with a particular subject, there is always something I can do to grow and improve.
 
 ## My Strengths
-Strengths listed here come from feedback and performance evaluations I have received in the past. I believe that when it comes to strengths, other people’s words should speak louder than my own.
+Clifton Strengths: [Input](https://www.gallup.com/cliftonstrengths/en/252278/input-theme.aspx), [Responsibility](https://www.gallup.com/cliftonstrengths/en/252320/responsibility-theme.aspx), [Learner](https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx), [Restorative](https://www.gallup.com/cliftonstrengths/en/252323/restorative-theme.aspx), [Harmony](https://www.gallup.com/cliftonstrengths/en/252254/harmony-theme.aspx)
+
+Strengths listed here come from feedback and performance evaluations I have received in the past.
 
 * I care deeply about the people I work with.
 * I work hard to earn and develop trust with those around me.
