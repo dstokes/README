@@ -40,7 +40,7 @@ If you have an emergency, you can call or text me at the phone number listed in 
 If you want to chat face-to-face, my calendar is publicly visible by default and you’re welcome to schedule time with me whenever you need. If it’s important and  our schedules don’t line up, let me know. Most meetings are mutable.
 
 ## Feedback
-I appreciate direct feedback. I’m most interested in constructive feedback I can use to improve, but I welcome positive feedback as well so I know how to continue supporting you successfully. If you have concerns about providing me with feedback directly, feel free to send it anonymously through my manager. I’m committed to receiving feedback graciously, and to taking action on constructive feedback when appropriate.
+I appreciate direct feedback. I’m most interested in constructive feedback I can use to improve, but I welcome positive feedback as well so I know how to continue supporting you successfully. If you have concerns about providing me with feedback directly, feel free to submit it annonymously via [Admonymous](https://www.admonymous.co/dstokes). I’m committed to receiving feedback graciously, and to taking action on constructive feedback when appropriate.
 
 # Thanks!
 Thanks for reading! Please send your feedback my way.
