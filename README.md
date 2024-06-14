@@ -2,7 +2,7 @@
 I'm Drew. This is my personal readme. It's documentation that should help you get to know me and jump start our working relationship. If your experience with me is different or something is missing from this document, feel free to open an [issue](https://github.com/dstokes/README/issues).
 
 # About Me
-I live in Portland, Oregon with my partner, Kristen; our daughters, Adley and Willow; and our dog, Obie. I'm a vegetarian, an avid reader, and deeply curious about the world and the people in it. My preferred pronouns are he / they. 
+I live in Portland, Oregon with my partner, Kristen, and our daughters, Adley and Willow. I'm a vegetarian, an avid reader, and deeply curious about the world and the people in it. My preferred pronouns are he / they. 
 
 Over the last 15 years, I've taken on various roles in technology including IT administration, database and systems administration, front end and full stack development, site reliability engineering, and leadership. You can learn more about my professional experience on my [LinkedIn profile](https://www.linkedin.com/in/drewstokes/).
 
