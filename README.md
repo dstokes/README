@@ -10,7 +10,7 @@ Over the last 15 years, I've taken on various roles in technology including IT a
 ## My Beliefs
 **Making mistakes is the best way to learn.** I often choose the most difficult path, as it presents the most opportunities for me to fail. People reach their true potential by being challenged in a supportive environment and learning lessons from their mistakes.
 
-**Trust is crucial, and it has to be earned.** People work best together when they trust one another. I work hard to gain the trust of my team by seeking to understand, following through on commitments, and doing what’s right.
+**Trust is crucial, and it has to be earned.** People work best together when they trust one another. I work hard to gain the trust of my team by seeking to understand, following through on commitments, and trying to do what’s right.
 
 **There is always room for improvement.**  Every person I have ever worked with has taught me something. No matter how comfortable I am with a particular subject, there is always something I can do to grow and improve.
 
@@ -37,10 +37,10 @@ You are welcome to contact me any time over Slack or email. I keep my notificati
 
 If you have an emergency, you can call or text me at the phone number listed in my Slack profile and email signature.
 
-If you want to chat face-to-face, my calendar is publicly visible by default and you’re welcome to schedule time with me whenever you need. If it’s important and  our schedules don’t line up, let me know. Most meetings are mutable.
+If you want to chat face-to-face, most of my calendar is publicly visible and you’re welcome to schedule time with me whenever you need. If it’s important and our schedules don’t line up, let me know so I can make time.
 
 ## Feedback
-I appreciate direct feedback. I’m most interested in constructive feedback I can use to improve, but I welcome positive feedback as well so I know how to continue supporting you successfully. If you have concerns about providing me with feedback directly, feel free to submit it annonymously via [Admonymous](https://www.admonymous.co/dstokes). I’m committed to receiving feedback graciously, and to taking action on constructive feedback when appropriate.
+I appreciate direct feedback. I’m most interested in constructive feedback I can use to improve, but I welcome positive feedback as well. If you have concerns about providing me with feedback directly, feel free to submit it annonymously via [Admonymous](https://www.admonymous.co/dstokes). I’m committed to receiving feedback graciously, and to taking action on constructive feedback when appropriate.
 
 # Thanks!
 Thanks for reading! Please send your feedback my way.
