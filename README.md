@@ -31,6 +31,17 @@ Strengths listed here come from feedback and performance evaluations I have rece
 
 **I don’t do well with subtleties.** Coded messages often fly right over my head so it’s best to be upfront about what you need and what you’re thinking. I’ll do my best to ask for clarification when I feel I’m missing something important.
 
+## My Important Reads
+The following books have had an outsized influence on my thinking and methodologies.
+
+* [Nonviolet Communication: A Language of Life](https://bookshop.org/p/books/nonviolent-communication-a-language-of-life-life-changing-tools-for-healthy-relationships-marshall-b-rosenberg/10180253?ean=9781892005281) by Marshall B. Rosenberg, PhD
+* [Getting Things Done: The Art of Stress-Free Productivity](https://bookshop.org/p/books/getting-things-done-the-art-of-stress-free-productivity-david-allen/15540042?ean=9780143126560) by David Allen
+* [Good Strategy Bad Strategy: The Difference and Why It Matters](https://bookshop.org/p/books/good-strategy-bad-strategy-the-difference-and-why-it-matters-richard-rumelt/9791956?ean=9780307886231) by Richard Rumelt
+* [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://bookshop.org/p/books/why-we-sleep-unlocking-the-power-of-sleep-and-dreams-matthew-walker/6692951?ean=9781501144325) by Matthew Walker
+* [Breath: The New Science of a Lost Art](https://bookshop.org/p/books/breath-the-new-science-of-a-lost-art-james-nestor/14206323?ean=9780735213616) by James Nestor
+* [Thinking in Systems](https://bookshop.org/p/books/thinking-in-systems-international-bestseller-donella-meadows/8755142?ean=9781603580557) by Donella H. Meadows
+* [Be Here Now](https://bookshop.org/p/books/be-here-now-ram-dass/6556749?ean=9780517543054) by Ram Dass
+
 # Working with Me
 ## Communication
 You are welcome to contact me any time over Slack or email. I keep my notification settings and status up to date to make sure that I can disconnect from non-urgent work communication when I need to. I try to minimize the amount of disruptive messages I send you, and I don’t expect you to respond to my non-urgent messages outside of your normal working hours.
