@@ -8,7 +8,7 @@ Over the last 15 years, I've taken on various roles in technology including IT a
 
 # Understanding Me
 ## My Beliefs
-**Making mistakes is the best way to learn.** I often choose the most difficult path, as it presents the most opportunities for me to fail. People reach their true potential by being challenged in a supportive environment and learning lessons from their mistakes.
+**Making mistakes is the best way to learn.** I often choose the most difficult path, as it presents the most opportunities for me to fail. I believe people reach their true potential by being challenged in a supportive environment, and learning lessons from their mistakes.
 
 **Trust is crucial, and it has to be earned.** People work best together when they trust one another. I work hard to gain the trust of my team by seeking to understand, following through on commitments, and trying to do what’s right.
 
@@ -25,9 +25,9 @@ Strengths listed here come from feedback and performance evaluations I have rece
 * I am willing to admit when I am wrong.
 
 ## My Quirks
-**I am a problem solver.** Often, this is a good thing. Sometimes it’s not. If you’re not looking for solutions and simply need to be heard, feel free to let me know. While I’m aware of my tendency to identify a fix, I don’t always catch myself in time.
+**I am a problem solver.** Sometimes this is a good thing. Sometimes it’s not. If you’re not looking for solutions and simply need to be heard, please to let me know. While I’m aware of my tendency to identify a fix, I don’t always catch myself in time.
 
-**I need to understand things.** Understanding the reasoning and strategy behind projects and high-priority tasks is a requirement for me. I have a hard time getting my bearings if I don’t have a strong mental model for the big picture. Similarly, I ask a lot of questions about technical systems so that I can represent problems and priorities in those systems fully. My desire to understand can be a hinderance in some situations. 
+**I need to understand things.** Understanding the reasoning and strategy behind projects and high-priority tasks is a requirement for me. I have a hard time getting my bearings if I don’t have a strong mental model for the big picture. Similarly, I ask a lot of questions about technical systems so that I can represent problems and priorities in those systems fully.
 
 **I don’t do well with subtleties.** Coded messages often fly right over my head so it’s best to be upfront about what you need and what you’re thinking. I’ll do my best to ask for clarification when I feel I’m missing something important.
 
