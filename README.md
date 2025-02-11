@@ -42,6 +42,8 @@ The following books have had an outsized influence on my thinking and methodolog
 * [Thinking in Systems](https://bookshop.org/p/books/thinking-in-systems-international-bestseller-donella-meadows/8755142?ean=9781603580557) by Donella H. Meadows
 * [Be Here Now](https://bookshop.org/p/books/be-here-now-ram-dass/6556749?ean=9780517543054) by Ram Dass
 
+Check out [this page](https://drewstokes.com/books) for more.
+
 # Working with Me
 ## Communication
 You are welcome to contact me any time over Slack or email. I keep my notification settings and status up to date to make sure that I can disconnect from non-urgent work communication when I need to. I try to minimize the amount of disruptive messages I send you, and I don’t expect you to respond to my non-urgent messages outside of your normal working hours.
